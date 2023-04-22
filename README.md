@@ -1,9 +1,11 @@
+Requiere Laravel 10, Jetstream, Node y MySQL
+
 1. Instalar `composer i`
-1. Ejecutar las migraciones con `php artisan migrate --seed`
-2. Ejecutar el servidor local con `php artisan serve`
-9. Ejecutar `npm install` para instalar las dependencias
-10. Ejecutar `npm run dev` para ejecutar el proyecto
-11. CREDENCIALES DE USUARIO: `user: admin@hotmail.com contraseña:123`
+2. Ejecutar las migraciones con `php artisan migrate --seed`
+3. Ejecutar el servidor local con `php artisan serve`
+4. Ejecutar `npm install` para instalar las dependencias
+5. Ejecutar `npm run dev` para ejecutar el proyecto
+6. CREDENCIALES DE USUARIO: `user: admin@hotmail.com contraseña:123`
 
 ![2023-04-14 (1)](https://user-images.githubusercontent.com/70911022/232130353-204057ff-408a-4f57-bbdc-bd6468e253e8.png)
 
